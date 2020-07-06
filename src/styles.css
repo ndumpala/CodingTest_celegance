@@ -51,3 +51,8 @@
 .question {
   font-size: 20px;
 }
+
+.selectedItem {
+  color: #007bff;
+  font-weight: bold;
+}
