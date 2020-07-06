@@ -1,0 +1,53 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-center {
+  justify-content: center;
+}
+
+.flex-right {
+  justify-content: flex-end;
+}
+
+.flex-center-align {
+  align-items: center;
+}
+
+.flex-space-around {
+  justify-content: space-around;
+}
+
+.flex-space-between {
+  justify-content: space-between;
+}
+
+.answer {
+  color: green;
+  font-weight: bold;
+}
+
+.showAnswer {
+  display: inline;
+}
+
+.hideAnswer {
+  display: none;
+}
+
+.margin-vertical-lg {
+  margin: 21px 0 21px 0;
+}
+
+.question {
+  font-size: 20px;
+}
